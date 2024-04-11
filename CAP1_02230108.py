@@ -4,12 +4,13 @@
 # 02230108
 #######################################
 # Reference 
-# W3 School
+# https://www.w3schools.com/
 # https://www.programiz.com/
+# https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&si=hqH5NEnCcYRi5nYx
+
  
  
 #######################################
-# Solution
 # Solution Score: 49960
 #######################################
 
@@ -40,6 +41,3 @@ file_path = "input_8_cap1.txt"      # Specify the path to the input file
 results = read_input(file_path)        # Read the game_results from the file
 total_score = calculate_score(results)     # Calculates the total score based on the game_results
 print("Total Score:", total_score)
-
-
-            
